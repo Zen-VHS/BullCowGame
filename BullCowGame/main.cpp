@@ -32,6 +32,8 @@ int main()
 
 	} 	while (bPlayAgain);
 
+	std::cout << "\nКакие-то изменения!" << std::endl;
+
 	return 0;
 }
 
